@@ -1,2 +1,3 @@
 # BitGo
-Bittorent Protocol implemented in Go
+
+Bittorent Client Protocol implemented in Go
